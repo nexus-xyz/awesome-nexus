@@ -12,7 +12,7 @@
 
 A curated list of awesome Nexus resources, tutorials, tools and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
-Nexus is a fully EVM-compatible Layer 1 blockchain with a powerful zkVM that enables developers to build and deploy applications with ease.
+Nexus is an EVM-compatible Layer 1 blockchain with a powerful zkVM that enables developers to build and deploy applications with ease.
 
 ## Content
 
