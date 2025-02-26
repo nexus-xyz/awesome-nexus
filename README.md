@@ -10,7 +10,7 @@
 
 ![](./assets/awesome-nexus.png)
 
-A curated list of awesome Nexus resources, tutorials, tools and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome Nexus resources, tutorials, tools and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go), [awesome-rust](https://github.com/rust-unofficial/awesome-rust), [awesome-solidity](https://github.com/bkrem/awesome-solidity), and [awesome-react](https://github.com/enaqx/awesome-react).
 
 Nexus is an EVM-compatible Layer 1 blockchain with a powerful zkVM that enables developers to build and deploy applications with ease.
 
