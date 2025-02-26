@@ -126,29 +126,20 @@ Download at [nexus.xyz/download](https://nexus.xyz/download).
 {
   "chainId": "393",
   "rpcUrl": "https://rpc.nexus.xyz/http",
-  "wsUrl": "wss://rpc.nexus.xyz/ws",
+  "wsUrl": "wss://rpc.nexus.xyz/wss",
   "explorerUrl": "https://explorer.nexus.xyz"
 }
 ```
 
 ### Testnets
 
-**Testnet II** is the latest Nexus testnet, featuring:
+**Testnet II** was the latest Nexus testnet, featuring:
 - Enhanced stability and performance
 - Full EVM compatibility for seamless Ethereum dApp deployment
 - Increased transaction throughput
 - Improved developer tooling
-- [Testnet Faucet](https://faucet.nexus.xyz) for obtaining test tokens
-
-**Testnet II Configuration:**
-```json
-{
-  "chainId": "393",
-  "rpcUrl": "https://testnet-rpc.nexus.xyz/http",
-  "wsUrl": "wss://testnet-rpc.nexus.xyz/ws",
-  "explorerUrl": "https://testnet-explorer.nexus.xyz"
-}
-```
+- [Testnet Faucet](https://hub.nexus.xyz) for obtaining test tokens
+  
 
 ### Example Apps
 
