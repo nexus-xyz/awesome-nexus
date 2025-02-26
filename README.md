@@ -91,10 +91,10 @@ cargo nexus verify
 
 | Version | Release | Key Advancements | Performance Gain |
 |---------|---------|------------------|-----------------|
-| 0.0     | Initial | First general-purpose zkVM | Baseline |
-| 1.0     | 2023    | Parallel proving, optimized circuits | 10x |
-| 2.0     | 2024    | Multi-core acceleration, specialized hardware | 100x |
-| 3.0     | Coming soon | Distributed proving, novel cryptography | 1000x+ |
+| 0.0     | 09/2023    | First general-purpose zkVM | Baseline |
+| 1.0     | 01/2024    | Parallel proving, optimized circuits, recursion-enabled provers | 10x |
+| 2.0     | 06/2024    | Improved circuit design / arithmetization | 100x |
+| 3.0     | Coming soon | Distributed proving, novel prover | 1000x+ |
 
 This exponential improvement represents a new **Moore's Law for verifiable computation**, with each generation delivering order-of-magnitude improvements in proving speed, cost efficiency, and computational capacity.
 
