@@ -31,7 +31,6 @@ Nexus is a fully EVM-compatible Layer 1 blockchain with a powerful zkVM that ena
     - [Infrastructure Extensions](#infrastructure-extensions)
     - [Gaming \& Metaverse](#gaming--metaverse)
   - [How to Add Your Project](#how-to-add-your-project)
-  - [Contribute](#contribute)
 
 ## Official Resources
 
@@ -98,8 +97,8 @@ To join the Nexus ecosystem, contact [growth@nexus.xyz](mailto:growth@nexus.xyz)
 
 ## Example Apps
 
-- [Counter App](https://github.com/nexus-xyz/counter-example) - Simple counter application demonstrating basic smart contract functionality
-- [NFT Platform](https://github.com/nexus-xyz/nft-platform-example) - NFT platform showcasing creation, trading, and management
+- [Counter App](https://github.com/nexus-xyz/nexus-counter-app) - Simple counter application demonstrating basic smart contract functionality
+- [NFT Platform](https://github.com/nexus-xyz/nexus-nft-example) - NFT platform showcasing creation, trading, and management
 
 ## Call for Startups & Projects
 
@@ -125,7 +124,7 @@ We're looking for innovative projects to build on Nexus:
 - Metaverse land registries
 - Interoperable NFT gaming assets
 
-Join our [Discord](https://discord.gg/nexus) to discuss your project ideas.
+Join our [Discord](https://discord.gg/nexus-xyz) to discuss your project ideas.
 
 ## How to Add Your Project
 
@@ -137,6 +136,3 @@ To add your project to this list:
 
 All submissions will be reviewed by maintainers. See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-## Contribute
-
-Contributions to this repository are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
