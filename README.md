@@ -145,6 +145,7 @@ Download at [nexus.xyz/download](https://nexus.xyz/download).
 
 - [Counter App](https://github.com/nexus-xyz/nexus-counter-app) - Simple smart contract demo
 - [NFT Platform](https://github.com/nexus-xyz/nexus-nft-example) - NFT creation and trading platform
+- [Nexus Coinflip App](https://github.com/baihaqism/nexus-coinflip-app) - A decentralized coin flip application built on Nexus.
 
 ## Research
 
