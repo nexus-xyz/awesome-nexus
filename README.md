@@ -116,7 +116,6 @@ Nexus OS provides a unified interface to the Nexus ecosystem across multiple pla
 
 **Key Features:** Wallet management, cross-platform synchronization, dApp discovery, network monitoring, staking, governance, and NEX Points tracking.
 
-Download at [nexus.xyz/download](https://nexus.xyz/download).
 
 ## Developer Resources
 
