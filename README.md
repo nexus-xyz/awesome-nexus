@@ -205,6 +205,9 @@ We're looking for innovative projects in these key areas:
 - **Prediction Markets & Derivatives**: Transparent markets with efficient settlement
 - **RWA Tokenization**: Infrastructure for traditional asset tokenization
 - **Undercollateralized Lending**: Privacy-preserving credit scoring systems
+  - Nexus One-Shot (a 1-button casino game)
+    - ["Nexus One-Shot URL"](https://nexus-one-shot.vercel.app/)
+    - ["GitHub Repo"](https://github.com/TheOnlyDeFiSage/one-shot)
 
 ### AI & Autonomous Agents
 - **On-Chain AI**: Autonomous agents for strategy execution and asset management
